@@ -1,2 +1,3 @@
-# expense_tracker
-I am creating a Expense Tracker in Flutter
+# expense_tracker_app
+
+I created an Expense Tracker in Flutter.
